@@ -2,3 +2,4 @@ some configurations that were checked in after init
 need to pull this file down.
 extra wijzigingen lokaal aangebracht
 * extra aanpassingen!
+aanpassingen op remote uitgevoerd
